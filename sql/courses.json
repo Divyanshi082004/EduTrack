@@ -1,0 +1,42 @@
+[
+  {
+    "course_id": 1,
+    "course_name": "B.Tech"
+  },
+  {
+    "course_id": 2,
+    "course_name": "BCA"
+  },
+  {
+    "course_id": 3,
+    "course_name": "BAA"
+  },
+  {
+    "course_id": 4,
+    "course_name": "MCA"
+  },
+  {
+    "course_id": 5,
+    "course_name": "MBA"
+  },
+  {
+    "course_id": 6,
+    "course_name": "M-TECH"
+  },
+  {
+    "course_id": 7,
+    "course_name": "Polytechnic"
+  },
+  {
+    "course_id": 8,
+    "course_name": "Diploma"
+  },
+  {
+    "course_id": 9,
+    "course_name": "B Pharma"
+  },
+  {
+    "course_id": 10,
+    "course_name": "BSC-BIOTECH"
+  }
+]
