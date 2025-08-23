@@ -1,5 +1,6 @@
 [dotenv@17.2.1] injecting env (0) from .env -- tip: 📡 observe env with Radar: https://dotenvx.com/radar
 [dotenv@17.2.1] injecting env (0) from .env -- tip: 🔐 prevent committing .env to code: https://dotenvx.com/precommit
+<<<<<<< HEAD
 C:\Users\HP\OneDrive\Desktop\EduTrack\node_modules\router\index.js:392
       throw new TypeError('argument handler must be a function')
       ^
@@ -17,3 +18,22 @@ TypeError: argument handler must be a function
     at TracingChannel.traceSync (node:diagnostics_channel:322:14)
 
 Node.js v22.16.0
+=======
+C:\Users\HP\OneDrive\Desktop\EduTrack\node_modules\router\index.js:392
+      throw new TypeError('argument handler must be a function')
+      ^
+
+TypeError: argument handler must be a function
+    at Function.use (C:\Users\HP\OneDrive\Desktop\EduTrack\node_modules\router\index.js:392:13)
+    at Function.<anonymous> (C:\Users\HP\OneDrive\Desktop\EduTrack\node_modules\express\lib\application.js:222:21)
+    at Array.forEach (<anonymous>)
+    at Function.use (C:\Users\HP\OneDrive\Desktop\EduTrack\node_modules\express\lib\application.js:219:7)
+    at Object.<anonymous> (C:\Users\HP\OneDrive\Desktop\EduTrack\index.js:14:5)
+    at Module._compile (node:internal/modules/cjs/loader:1730:14)
+    at Object..js (node:internal/modules/cjs/loader:1895:10)
+    at Module.load (node:internal/modules/cjs/loader:1465:32)
+    at Function._load (node:internal/modules/cjs/loader:1282:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+
+Node.js v22.16.0
+>>>>>>> e8330ced01ac477ebd4922ea09a1dadf12b554c9
